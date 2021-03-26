@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Philadelphia</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id='container'>
+
+  <h1 id="welcome">welcome to:<h1>
+  <h1 id="greeting">Philadelphia</h1>
+
+<p> Philadelphia is located in the U.S. state of Pennsylvania. The city is ranked #6 by population. According to the 2010 Census, the population was 1,526,006. </p>
+
+<p>
+  The 2019 population estimate was 1,584,064.
+  Philadelphia has a land area of 134.2 sq mi, and the population density per square mile is 11,683/sq mi. </p>
+
+
+<p><a href="https://en.wikipedia.org/wiki/Philadelphia">View the Wikipedia entry for Philadelphia.</a></p>
+
+	<p><a href="../index.html">Return to the list</a> to explore a different city.</p>
+
+
+</div>
+
+</body>
+</html>

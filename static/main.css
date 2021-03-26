@@ -1,0 +1,79 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    background: #834c4b;
+    color: #000;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 25px;
+}
+
+#container {
+    max-width: 800px;
+    margin: 30px auto;
+    background: #e8bdb0;
+    padding: 50px;
+}
+
+#welcome {
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+h1 {
+    font-family: 'Lexend Mega', sans-serif;
+    text-align: left;
+    margin: 0;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 1;
+    padding-bottom: 10px;
+}
+
+li{
+  margin: 10px;
+}
+
+a {
+    color: #45382f;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: #91867e;
+    text-decoration: none;
+}
+
+
+/* media queries */
+@media screen and ( max-width: 700px ) {
+
+body {
+  background: #e8bdb0;
+  font-size: 20px;
+}
+
+#welcome {
+  font-size: 25px;
+}
+
+  h1 {
+      font-size: 33px;
+      text-align: center;
+  }
+
+    #container {
+      max-width: 600px;
+      padding-top: 30px;
+      margin: 10px auto;
+    }
+
+}

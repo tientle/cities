@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Phoenix</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id='container'>
+
+  <h1 id="welcome">welcome to:<h1>
+  <h1 id="greeting">Phoenix</h1>
+
+<p> Phoenix is located in the U.S. state of Arizona. The city is ranked #5 by population. According to the 2010 Census, the population was 1,445,632. </p>
+
+<p>
+  The 2019 population estimate was 1,680,992.
+  Phoenix has a land area of 517.6 sq mi, and the population density per square mile is 3,120/sq mi. </p>
+
+
+<p><a href="https://en.wikipedia.org/wiki/Phoenix,_Arizona">View the Wikipedia entry for Phoenix.</a></p>
+
+	<p><a href="../index.html">Return to the list</a> to explore a different city.</p>
+
+
+</div>
+
+</body>
+</html>

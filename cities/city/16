@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>San Francisco</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id='container'>
+
+  <h1 id="welcome">welcome to:<h1>
+  <h1 id="greeting">San Francisco</h1>
+
+<p> San Francisco is located in the U.S. state of California. The city is ranked #16 by population. According to the 2010 Census, the population was 805,235. </p>
+
+<p>
+  The 2019 population estimate was 881,549.
+  San Francisco has a land area of 46.9 sq mi, and the population density per square mile is 18,569/sq mi. </p>
+
+
+<p><a href="https://en.wikipedia.org/wiki/San_Francisco">View the Wikipedia entry for San Francisco.</a></p>
+
+	<p><a href="../index.html">Return to the list</a> to explore a different city.</p>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Charlotte</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id='container'>
+
+  <h1 id="welcome">welcome to:<h1>
+  <h1 id="greeting">Charlotte</h1>
+
+<p> Charlotte is located in the U.S. state of North Carolina. The city is ranked #15 by population. According to the 2010 Census, the population was 731,424. </p>
+
+<p>
+  The 2019 population estimate was 885,708.
+  Charlotte has a land area of 305.4 sq mi, and the population density per square mile is 2,757/sq mi. </p>
+
+
+<p><a href="https://en.wikipedia.org/wiki/Charlotte,_North_Carolina">View the Wikipedia entry for Charlotte.</a></p>
+
+	<p><a href="../index.html">Return to the list</a> to explore a different city.</p>
+
+
+</div>
+
+</body>
+</html>

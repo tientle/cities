@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ city["City"] }}</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+
+<body>
+
+<div id='container'>
+
+  <h1 id="welcome">welcome to:<h1>
+  <h1 id="greeting">{{ city["City"] }}</h1>
+
+<p> {{ city["City"] }} is located in the U.S. state of {{ city["State"] }}. The city is ranked #{{ city["2019-Rank"] }} by population. According to the 2010 Census, the population was {{ city["2010-Census"] }}. </p>
+
+<p>
+  The 2019 population estimate was {{ city["2019-estimate"] }}.
+  {{ city["City"] }} has a land area of {{ city["2016-land-area"] }}, and the population density per square mile is {{ city["2016-population-density"] }}. </p>
+
+
+<p><a href="{{ city['Link'] }}">View the Wikipedia entry for {{ city["City"] }}.</a></p>
+
+	<p><a href="{{ url_for('index') }}">Return to the list</a> to explore a different city.</p>
+
+
+</div>
+
+</body>
+</html>
